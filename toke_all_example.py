@@ -1,10 +1,3 @@
-"""
-Comprehensive NLP & PyTorch Examples
-
-This single file includes code snippets for various NLP tasks, organized into sections 1 through 8.
-Just copy and paste this into your GitHub repository as `examples.py`.
-"""
-
 # +++++
 # Section 1: TinyStories Dataset Loader
 # +++++
